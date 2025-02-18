@@ -1,0 +1,5 @@
+kaggle
+h2o
+pandas
+ipykernel
+xgboost
