@@ -2,4 +2,13 @@ kaggle
 h2o
 pandas
 ipykernel
-xgboost
+mlflow
+
+pygwalker
+matplotlib
+seaborn
+altair
+plotly
+vegafusion
+nbformat
+vl-convert-python
