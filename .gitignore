@@ -1,5 +1,7 @@
 __pycache__/
 .venv
 *.csv
-src/mlruns
-src/mlartifacts
+*.zip
+*.png
+mlruns
+mlartifacts

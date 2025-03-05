@@ -12,3 +12,4 @@ plotly
 vegafusion
 nbformat
 vl-convert-python
+pytest
